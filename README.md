@@ -1,137 +1,93 @@
-# 🖥️ Developer Console
+# Hi, I'm Karthik Mekala 👋
 
-```bash
-┌─────────────────────────────────────────────────────────────┐
-│                INITIALIZING DEVELOPER PROFILE              │
-└─────────────────────────────────────────────────────────────┘
+### Artificial Intelligence | Machine Learning | Data Science | Software Development
 
-$ whoami
+I am a Computer Science student passionate about designing intelligent systems and developing data-driven solutions. My interests lie in Artificial Intelligence, Machine Learning, Deep Learning, Natural Language Processing, and Software Engineering. I enjoy transforming complex problems into practical and impactful technology solutions.
 
-Karthik Mekala
+---
 
-$ role --current
+## 🎯 Professional Summary
 
-Artificial Intelligence Enthusiast
-Machine Learning Practitioner
-Data Science Learner
-Software Developer
+- 🔹 Strong foundation in Artificial Intelligence, Machine Learning, and Data Science.
+- 🔹 Experience building predictive analytics, recommendation systems, and AI-powered applications.
+- 🔹 Passionate about leveraging technology to solve real-world challenges.
+- 🔹 Continuously exploring emerging technologies including Generative AI and Large Language Models (LLMs).
+- 🔹 Committed to continuous learning, innovation, and professional growth.
 
-$ education --status
+---
 
-Bachelor of Technology (Computer Science)
+## 🛠️ Technical Skills
 
-$ about --summary
+### Languages
+![Python](https://img.shields.io/badge/Python-Expert-3776AB?style=flat-square&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-Intermediate-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-Intermediate-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-Database-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
-Passionate about designing intelligent systems that solve
-real-world challenges using Artificial Intelligence,
-Machine Learning, Data Science, and Software Development.
+### Artificial Intelligence & Machine Learning
+![Machine Learning](https://img.shields.io/badge/Machine_Learning-Advanced-success?style=flat-square)
+![Deep Learning](https://img.shields.io/badge/Deep_Learning-Advanced-blue?style=flat-square)
+![NLP](https://img.shields.io/badge/NLP-Learning-orange?style=flat-square)
+![Generative AI](https://img.shields.io/badge/Generative_AI-Exploring-purple?style=flat-square)
 
-Focused on continuous learning, innovation, and building
-technology-driven solutions with measurable impact.
+### Libraries & Frameworks
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
 
-$ interests --list
+### Tools & Platforms
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter_Notebook-F37626?style=flat-square&logo=jupyter&logoColor=white)
 
-✓ Artificial Intelligence
-✓ Machine Learning
-✓ Deep Learning
-✓ Data Science
-✓ Natural Language Processing
-✓ Generative AI
-✓ Software Engineering
-✓ Problem Solving
+---
 
-$ skills --technical
+## 🚀 Featured Projects
 
-Programming Languages:
-├── Python
-├── Java
-├── JavaScript
-├── SQL
-└── C
+### ❤️ Heart Disease Prediction using Bayesian Networks
+Developed a probabilistic machine learning model for healthcare prediction using Bayesian inference techniques.
 
-Machine Learning:
-├── Scikit-Learn
-├── TensorFlow
-├── Keras
-├── Pandas
-├── NumPy
-└── Matplotlib
+### 🎙️ Real-Time Speech-to-Text System
+Built a real-time speech recognition solution leveraging Deepgram API and speech processing technologies.
 
-Web Development:
-├── HTML
-├── CSS
-└── JavaScript
+### 🎬 Movie Recommendation System
+Implemented an intelligent recommendation engine using ensemble clustering and machine learning algorithms.
 
-Tools & Platforms:
-├── Git
-├── GitHub
-├── VS Code
-├── Jupyter Notebook
-└── Google Colab
+### ✈️ Travel Expense Predictor
+Designed a predictive system to estimate travel expenses and assist users in travel planning.
 
-$ projects --featured
+---
 
-[1] Heart Disease Prediction
-    └─ Bayesian Network based prediction system
+## 🌱 Currently Exploring
 
-[2] Real-Time Speech-to-Text System
-    └─ Deepgram API powered transcription
+- Large Language Models (LLMs)
+- Generative AI Applications
+- Advanced Deep Learning Architectures
+- MLOps & Model Deployment
+- AI Product Engineering
 
-[3] Movie Recommendation System
-    └─ Ensemble Clustering & Recommendation Engine
+---
 
-[4] Travel Expense Predictor
-    └─ Smart travel planning and cost estimation
+## 🤝 Collaboration Interests
 
-[5] Cricket Game Web Application
-    └─ Interactive browser-based cricket simulator
+- Artificial Intelligence Projects
+- Machine Learning Research
+- Open Source Contributions
+- Data Science Applications
+- Innovative Software Development
 
-$ current_focus
+---
 
-► Large Language Models (LLMs)
-► Generative AI Applications
-► Advanced Deep Learning
-► MLOps & Model Deployment
-► AI Product Development
+## 📫 Connect With Me
 
-$ achievements
+💼 LinkedIn: www.linkedin.com/in/karthik-mekala-a38616285
 
-✓ Developed multiple AI & Machine Learning projects
-✓ Built end-to-end predictive analytics solutions
-✓ Actively exploring cutting-edge AI technologies
-✓ Contributed to academic and personal software projects
+💻 GitHub: github.com/mekalakarthik05
 
-$ career_objective
+---
 
-Seeking opportunities to apply Artificial Intelligence,
-Machine Learning, and Software Development skills to
-build innovative products and contribute to impactful
-technology solutions.
+### 💡 Philosophy
 
-$ collaboration --status
-
-OPEN
-
-Interested in:
-• AI & ML Projects
-• Open Source Contributions
-• Research Collaborations
-• Innovative Software Development
-
-$ contact
-
-GitHub   : github.com/mekalakarthik05
-LinkedIn : linkedin.com/in/karthik-mekala-a38616285
-
-$ system_status
-
-Learning............. ████████████████████ 100%
-Building............. ████████████████████ 100%
-Innovating........... ████████████████████ 100%
-Growing.............. ████████████████████ 100%
-
-$ exit
-
-Thank you for visiting my profile.
-Let's build something impactful together.
-```
+> Building intelligent solutions that create meaningful impact through technology, innovation, and continuous learning.
