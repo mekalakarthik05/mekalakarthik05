@@ -1,196 +1,139 @@
+# 🚀 Karthik Mekala
+
 <div align="center">
 
-# Hi 👋, I'm Karthik Mekala
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=3000&pause=1000&center=true&vCenter=true&width=1000&lines=AI+Engineer+%7C+Machine+Learning+Developer;Generative+AI+%7C+LLMs+%7C+RAG;Multi-Agent+AI+Systems;Deep+Learning+%7C+NLP+%7C+Computer+Vision;Building+Intelligent+Systems+for+Real-World+Impact" />
 
-### AI & Machine Learning Engineer | Generative AI Enthusiast | Python Developer
+<br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=900&lines=Artificial+Intelligence+%26+Machine+Learning+Student;Building+Intelligent+AI+Systems;Generative+AI+%7C+LLMs+%7C+Multi-Agent+AI;Deep+Learning+%7C+NLP+%7C+Computer+Vision;Always+Learning+and+Building+🚀" alt="Typing SVG" />
-
-<p>
-  <img src="https://komarev.com/ghpvc/?username=mekalakarthik05&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
-</p>
+![Profile Views](https://komarev.com/ghpvc/?username=mekalakarthik05&style=for-the-badge)
+![AI](https://img.shields.io/badge/Artificial%20Intelligence-Engineer-blue?style=for-the-badge)
+![ML](https://img.shields.io/badge/Machine%20Learning-Developer-success?style=for-the-badge)
 
 </div>
 
 ---
 
-# 🚀 About Me
+# 💫 About Me
 
-🎓 B.E. in Artificial Intelligence & Machine Learning
+🎓 B.E. Artificial Intelligence & Machine Learning
 
-📚 Passionate about building intelligent systems using AI, Machine Learning, Deep Learning, NLP, Computer Vision, and Generative AI.
+📈 CGPA: **9.41**
 
-💡 I enjoy solving real-world problems through data-driven solutions and developing production-ready AI applications.
+🤖 AI Engineer focused on building production-grade intelligent systems across Machine Learning, Deep Learning, NLP, Computer Vision, Generative AI, RAG, and Multi-Agent AI.
 
-🔭 Currently exploring:
-
-- Large Language Models (LLMs)
-- Retrieval-Augmented Generation (RAG)
-- Multi-Agent AI Systems
-- Agentic AI Workflows
-- Real-Time AI Applications
-- AI for Healthcare
-- Advanced NLP Systems
-
-🌱 Constantly learning and experimenting with cutting-edge AI technologies.
+🔬 Passionate about transforming research ideas into scalable AI products.
 
 ---
 
-# 🧠 Areas of Interest
+# 🧠 AI Specialization Matrix
 
-<table>
-<tr>
-<td>
-
-### Artificial Intelligence
-- Machine Learning
-- Deep Learning
-- Generative AI
-- Agentic AI
-- Multi-Agent Systems
-
-</td>
-
-<td>
-
-### Natural Language Processing
-- Transformers
-- BERT
-- DeBERTa-v3
-- LLM Applications
-- Text Classification
-
-</td>
-</tr>
-
-<tr>
-<td>
-
-### Computer Vision
-- Object Detection
-- Image Classification
-- Video Analytics
-- Traffic Monitoring Systems
-
-</td>
-
-<td>
-
-### Data Science
-- Data Analysis
-- Feature Engineering
-- Model Optimization
-- Predictive Analytics
-
-</td>
-</tr>
-</table>
+| Domain | Level |
+|----------|----------|
+| Machine Learning | ██████████ |
+| Deep Learning | █████████░ |
+| NLP | ██████████ |
+| Generative AI | ██████████ |
+| LLM Applications | ██████████ |
+| RAG Systems | █████████░ |
+| Multi-Agent AI | █████████░ |
+| Computer Vision | ████████░░ |
+| MLOps | ███████░░░ |
 
 ---
 
-# 💻 Tech Stack
+# ⚡ Tech Stack
 
-## Programming Languages
+### Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-<p>
-<img src="https://skillicons.dev/icons?i=python,java,c,cpp,mysql" />
-</p>
+### AI / ML
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge)
 
-## AI / Machine Learning
+### GenAI
+![LLMs](https://img.shields.io/badge/LLMs-black?style=for-the-badge)
+![RAG](https://img.shields.io/badge/RAG-blueviolet?style=for-the-badge)
+![LangChain](https://img.shields.io/badge/LangChain-success?style=for-the-badge)
+![Multi-Agent AI](https://img.shields.io/badge/Multi--Agent%20AI-red?style=for-the-badge)
 
-<p>
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch" />
-</p>
-
-- Machine Learning
-- Deep Learning
-- NLP
-- Generative AI
-- LLMs
-- RAG
-- Multi-Agent AI
-- LangChain
-- Hugging Face
-- Bayesian Networks
-
-## Frameworks & Tools
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,docker,flask,fastapi" />
-</p>
+### Tools
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ---
 
 # 🌟 Featured Projects
 
 ## 🧠 MindScope-AI
-### Mental Health Question Classification using DeBERTa-v3
+Mental Health Question Classification using DeBERTa-v3
 
-- Transformer-based NLP classification system
-- Fine-tuned DeBERTa-v3 model
-- Multi-class mental health prediction
-- Advanced evaluation metrics
-
----
+- Transformer-based NLP system
+- Fine-tuned DeBERTa-v3 architecture
+- Multi-class classification
+- Production-ready evaluation pipeline
 
 ## ❤️ Heart Disease Prediction using Bayesian Networks
 
-- Probabilistic graphical modeling
+- Explainable healthcare AI
 - Bayesian inference engine
-- Explainable healthcare predictions
-- Built using pgmpy
+- Clinical decision support
+- Probabilistic reasoning
 
----
+## 🤖 ResearchSphere AI
 
-## 📄 LLM-Powered Resume Intelligence System
-
-- Resume analysis using LLMs
-- ATS optimization insights
-- Candidate profiling
-- Semantic matching capabilities
-
----
+- Autonomous Multi-Agent Research Platform
+- Agent Collaboration Framework
+- Intelligent Knowledge Retrieval
+- Automated Report Generation
 
 ## 🎙️ Real-Time Voice AI Assistant
 
-- Speech-to-Text pipeline
-- Real-time transcription
-- AI-powered conversational interface
-- Deepgram integration
+- Real-Time Speech-to-Text
+- Conversational AI
+- Deepgram Integration
+- Streaming Architecture
+
+## 📄 LLM-Powered Resume Intelligence System
+
+- Resume Analysis
+- ATS Optimization
+- Semantic Matching
+- LLM-Powered Insights
 
 ---
 
-## 🤖 Multi-Agent Research Assistant
+# 🔬 Research Interests
 
-- Autonomous AI agents
-- Research automation
-- Knowledge retrieval
-- Agent collaboration workflows
-
----
-
-## 🚦 AI Traffic Violation Detection
-
-- Computer Vision system
-- Vehicle monitoring
-- Violation detection
-- Smart city applications
+- Generative AI
+- Large Language Models
+- Agentic AI
+- Multi-Agent Systems
+- Retrieval-Augmented Generation
+- Explainable AI
+- Healthcare AI
+- Human-AI Interaction
 
 ---
 
-# 📈 GitHub Analytics
+# 📊 GitHub Analytics
 
 <div align="center">
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=mekalakarthik05&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=mekalakarthik05&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mekalakarthik05&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mekalakarthik05&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </div>
 
----
-
-# 🔥 GitHub Streak
+### 🔥 Streak Stats
 
 <div align="center">
 
@@ -198,75 +141,77 @@
 
 </div>
 
----
-
-# 🏆 GitHub Trophies
+### 🏆 GitHub Trophies
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=mekalakarthik05&theme=tokyonight&no-frame=true&row=1&column=7" />
+<img src="https://github-profile-trophy.vercel.app/?username=mekalakarthik05&theme=tokyonight&no-frame=true&row=1&column=7"/>
 
 </div>
 
----
-
-# 📊 Contribution Activity
-
-<div align="center">
+### 📈 Contribution Graph
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=mekalakarthik05&theme=tokyo-night&hide_border=true"/>
-
-</div>
 
 ---
 
 # 🎯 Current Focus
 
-```python
-class Karthik:
-    
-    def __init__(self):
-        self.role = "AI & ML Engineer"
-        self.language = ["Python", "Java"]
-        
-        self.interests = [
-            "Generative AI",
-            "LLMs",
-            "RAG",
-            "Multi-Agent AI",
-            "Deep Learning",
-            "NLP"
-        ]
-        
-    def future_goal(self):
-        return "Build impactful AI systems that solve real-world problems"
+- Advanced RAG Architectures
+- Multi-Agent AI Systems
+- MCP Ecosystem
+- Agentic Workflows
+- LLM Fine-Tuning
+- AI Product Engineering
 
-me = Karthik()
-print(me.future_goal())
-```
+---
 
-### Output
+# 🚀 2026 Goals
 
-```text
-Build impactful AI systems that solve real-world problems
+- Build impactful AI products
+- Contribute to Open Source AI
+- Publish technical AI content
+- Master Agentic AI Systems
+- Secure top AI/ML opportunities
+- Create production-grade AI solutions
+
+---
+
+# 💼 Recruiter Snapshot
+
+```yaml
+Name: Karthik Mekala
+Role: AI Engineer
+Focus:
+  - Machine Learning
+  - Deep Learning
+  - NLP
+  - Generative AI
+  - LLMs
+  - RAG
+  - Multi-Agent AI
+Languages:
+  - Python
+  - SQL
+Status: Open for AI/ML Opportunities
 ```
 
 ---
 
-# 🤝 Let's Connect
+# 🤝 Connect With Me
 
 <p align="center">
 
-<a href="https://github.com/mekalakarthik05">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+<a href="https://www.linkedin.com/in/karthik-mekala-k05/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="YOUR_LINKEDIN_URL">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+<a href="mailto:mekalakarthik05@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<a href="mailto:YOUR_EMAIL">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail"/>
+<a href="https://leetcode.com/u/mekalakarthik05/">
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
 </a>
 
 </p>
@@ -275,10 +220,6 @@ Build impactful AI systems that solve real-world problems
 
 <div align="center">
 
-### ⭐ "Transforming Ideas into Intelligent Solutions with AI"
-
-#### Thanks for visiting my profile!
-
-🚀 Always open to collaboration on AI, Machine Learning, NLP, and Generative AI projects.
+## ⭐ Building Intelligent Systems That Create Real-World Impact
 
 </div>
