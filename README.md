@@ -26,22 +26,6 @@
 
 ---
 
-# 🧠 AI Specialization Matrix
-
-| Domain | Level |
-|----------|----------|
-| Machine Learning | ██████████ |
-| Deep Learning | █████████░ |
-| NLP | ██████████ |
-| Generative AI | ██████████ |
-| LLM Applications | ██████████ |
-| RAG Systems | █████████░ |
-| Multi-Agent AI | █████████░ |
-| Computer Vision | ████████░░ |
-| MLOps | ███████░░░ |
-
----
-
 # ⚡ Tech Stack
 
 ### Languages
@@ -138,14 +122,6 @@ Mental Health Question Classification using DeBERTa-v3
 <div align="center">
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=mekalakarthik05&theme=tokyonight&hide_border=true"/>
-
-</div>
-
-### 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=mekalakarthik05&theme=tokyonight&no-frame=true&row=1&column=7"/>
 
 </div>
 
