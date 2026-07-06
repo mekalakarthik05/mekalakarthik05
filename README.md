@@ -16,7 +16,7 @@
 
 # 💫 About Me
 
-🎓 **B.E. Artificial Intelligence & Machine Learning**
+🎓 B.E. in Artificial Intelligence & Machine Learning at **Chaitanya Bharathi Institute of Technology (CBIT), Hyderabad**
 
 📈 **CGPA:** 9.41
 
