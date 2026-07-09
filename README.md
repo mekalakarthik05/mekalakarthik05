@@ -1,7 +1,7 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=Karthik%20Mekala&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=40&color=0:6A11CB,50:2575FC,100:00C9FF"/>
+# ✨ 𝐊𝐚𝐫𝐭𝐡𝐢𝐤 𝐌𝐞𝐤𝐚𝐥𝐚 ✨
 
 </div>
 
