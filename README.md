@@ -1,3 +1,5 @@
+<div align="center">
+
 # 🚀 Karthik Mekala
 
 <div align="center">
